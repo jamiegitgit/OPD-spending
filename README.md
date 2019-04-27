@@ -3,6 +3,7 @@
 Oakland Police Department Spending 2016-2017
 
 A graph showing how much the OPD spent per category in 2016-2017
+
 Data from http://budgetdata.oaklandca.gov/#!/view-data
 
 This chart allow the viewer to draw conclusions such as:
